@@ -59,15 +59,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RSXLX&show_icons=true&title_color=00B159&text_color=333&icon_color=00B159&bg_color=ffffff&hide_border=true&include_all_commits=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RSXLX&layout=compact&title_color=00B159&text_color=333&icon_color=00B159&bg_color=ffffff&hide_border=true" height="180" alt="languages graph" />
-</div>
-
----
-
 ### 🏆 Featured Projects
 
 |        **Project**        | **Description**                                                                                    |            **Stack**            |
