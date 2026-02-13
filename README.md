@@ -2,10 +2,6 @@
   <!-- ZetaFrog Themed Header: Green Gradient -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00B159&height=250&section=header&text=I'm%20Reece&fontSize=80&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%"/>
   
-  <!-- ZetaFrog / Green Tech Aesthetic -->
-  <!-- Using a generic frog or tech logo with green border if specific ZetaFrog asset isn't available, but styling to match -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZ5enZ5enZ5enZ5enZ5enZ5enZ5enZ5enZ5enZ5enZ5enZ5enZ5enZ5enZ5enZ5enZ5enZ5enZ5enZ5enZ5enZ5enZ5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7TKSdO8J9m8H9o1G/giphy.gif" width="120" style="border-radius: 50%; border: 3px solid #00B159;" alt="Tech Frog" />
-
   <h1 style="color: #00B159;">🐸 Web3 Builder & Backend Specialist 🐸</h1>
   
   <h3> Computer Science Major | 2 Years Backend Experience </h3>
